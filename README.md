@@ -1,3 +1,3 @@
 # LP1
 ## UERJ
-### Alan Pereira Repos
+### Alan Pereira Logica Repos
